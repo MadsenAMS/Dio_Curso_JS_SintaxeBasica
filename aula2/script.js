@@ -47,6 +47,6 @@ output = `+  → Soma dois valores. 2 + 2 = ${(2+2)}<br>`;
 output += `- → Subtrai dois valores. 2 - 2 = ${(2-2)}<br>`;
 output += `* → Multiplica dois valores. 2 * 3 = ${(2*3)}<br>`;
 output += `/ → Divide dois valores. 2 / 2 =  ${(2/2)}<br>`;
-output += `% → Pega o resto de divisão de dois valores. 12%5 = ${(12%5)}<br>`; 
+output += `% → Calcula o resto de divisão 12%5 = ${(12%5)}<br>`; 
 
 printOnHTML();

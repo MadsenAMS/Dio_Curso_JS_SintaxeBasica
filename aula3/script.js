@@ -11,6 +11,8 @@ function printOnHTML(input = output){
     document.getElementById("overwriteMe").innerHTML += "<br>" + input;
 }
 
+document.getElementById("overwriteMe").innerHTML = "";
+
 let vetor = ['string', 1, true];
 
 output = `Criando um vetor misto: ${vetor}`;
