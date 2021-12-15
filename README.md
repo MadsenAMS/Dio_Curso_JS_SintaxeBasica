@@ -12,3 +12,5 @@ Novidades do curso:
 4. Vi uma uso curioso do switch em que uma operação de comparação é posta após o item de comparação do switch... 'case placar = jogador1 > jogador2'. Essa para mim é realmente nova.
 
 5. Aprendi a usar a estrutura "for(*item* of *array*)".
+
+6. Aprendi a utilizar o 'prompt' do javascript em complemento ao 'alert'.
